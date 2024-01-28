@@ -45,7 +45,7 @@
 				"dunst",
 				"qt5-qtwayland",
 				"qt5-qtwayland",
-				"polkit-kde",
+				"polkit-kde"
 				
 			],
 			"bluefin-dx": [
@@ -58,7 +58,7 @@
 				"cockpit-selinux",
 				"cockpit-storaged",
 				"cockpit-system",
-				"code",
+				"emacs",
 				"containerd.io",
 				"dbus-x11",
                 "devpod",
