@@ -113,6 +113,7 @@
 				"gnome-software-rpm-ostree",
 				"gnome-tour",
 				"ublue-os-update-services",
+				"thunar-archive-plugin",
 				"Thunar"
 			],
 			"bluefin-dx": []
