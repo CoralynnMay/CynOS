@@ -45,7 +45,8 @@
 				"dunst",
 				"qt5-qtwayland",
 				"qt5-qtwayland",
-				"polkit-kde"
+				"polkit-kde",
+				"dolphin"
 				
 			],
 			"bluefin-dx": [
@@ -111,7 +112,8 @@
 				"gnome-extensions-app",
 				"gnome-software-rpm-ostree",
 				"gnome-tour",
-				"ublue-os-update-services"
+				"ublue-os-update-services",
+				"Thunar"
 			],
 			"bluefin-dx": []
 		}
@@ -119,7 +121,6 @@
 	"38": {
 		"include": {
 			"bluefin": [
-				"gnome-shell-extension-tailscale-status"
 			],
 			"bluefin-dx": [],
 			"bluefin-framework": []
@@ -134,7 +135,6 @@
 	"39": {
 		"include": {
 			"bluefin": [
-				"gnome-shell-extension-tailscale-gnome-qs",
 				"input-leap",
                                 "nautilus-open-any-terminal"
 			],
